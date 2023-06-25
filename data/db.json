@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5500,
+      "ckecked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 3200,
+      "ckecked": false
+    },
+    {
+      "id": 2,
+      "name": "Smart phone",
+      "price": 8000,
+      "ckecked": true
+    },
+    {
+      "name": "mynewProduct",
+      "price": "600000",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "mynewProduct",
+      "price": "600000",
+      "checked": true,
+      "id": 4
+    }
+  ]
+}
